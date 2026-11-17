@@ -1,0 +1,4 @@
+=== STRUK RIWAYAT TRANSAKSI GRAND ASTON ===
+1. Tamu: Gilang (ACT-01) | Kamar: Suite Room [VIP Hospitality] | Qty: 3
+2. Tamu: Hani (ACT-02) | Kamar: Standard Room [Basic Hospitality] | Qty: 2
+3. Tamu: Hani (ACT-02) | Kamar: Suite Room [VIP Hospitality] | Qty: 1
